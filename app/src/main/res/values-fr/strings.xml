@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tâche semaine 3</string>
+    <string name="Start">Bienvenue</string>
+    <string name="Button">Entrer</string>
+    <string name="Content_Image">L image Android ne s étire pas comme je le souhaite</string>
+</resources>
