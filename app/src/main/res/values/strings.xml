@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="titulo_app">Mi Hola Mundo \°.°`/</string>
+    <string name="texto">El texto de la aplicación</string>
+    <string name="buton">Botón</string>
+    <string name="tsuna_image">Imagen de Tsunayoshi Sawada</string>
+    <string name="puppy_image">Imagen de un perro</string>
+</resources>
